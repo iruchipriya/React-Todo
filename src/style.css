@@ -1,0 +1,13 @@
+h1,
+p {
+  font-family: Lato;
+}
+
+.done {
+  color: green;
+  text-decoration: line-through;
+}
+
+.notdone {
+  color: black;
+}
